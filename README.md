@@ -18,7 +18,7 @@
     <li>ASP.Net based front end for managing stocks, mutual fund, etf or any investment that is associated with any of the global exchanges</li>
     <li>The application stores any new symbols that you search in the application and which  are not available currently in the application symbol repository</li> 
     <li>You can use the applicatin to manage multiple portfolios</li>
-    <li>All mutual funds available in India that are coming under SEBI are managed separatly under 'Mutual Funds'</li>
+    <li>All mutual funds available are managed separatly under 'Mutual Funds'</li>
     <li> Any other investment type that you search, which is listed on any global exchange is managed by application separatly under 'Stocks'</li>
     <li>For example if you search a ETF fund with its symbol and if it is not currently available in application repository then it gets added under 'Stocks'</li>
     <li>You do not need to create your portfolio but can use the application for your investment research and decision making</li>
